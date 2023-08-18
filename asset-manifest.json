@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/instagram-dp-downloader/static/css/main.f0a44ae8.css",
-    "main.js": "/instagram-dp-downloader/static/js/main.deb39e68.js",
+    "main.js": "/instagram-dp-downloader/static/js/main.a0c6d962.js",
     "static/js/787.1369cd32.chunk.js": "/instagram-dp-downloader/static/js/787.1369cd32.chunk.js",
     "index.html": "/instagram-dp-downloader/index.html",
     "main.f0a44ae8.css.map": "/instagram-dp-downloader/static/css/main.f0a44ae8.css.map",
-    "main.deb39e68.js.map": "/instagram-dp-downloader/static/js/main.deb39e68.js.map",
+    "main.a0c6d962.js.map": "/instagram-dp-downloader/static/js/main.a0c6d962.js.map",
     "787.1369cd32.chunk.js.map": "/instagram-dp-downloader/static/js/787.1369cd32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0a44ae8.css",
-    "static/js/main.deb39e68.js"
+    "static/js/main.a0c6d962.js"
   ]
 }
