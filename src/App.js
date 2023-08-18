@@ -4,11 +4,10 @@ function App() {
   return (
     <div className="App">
       <h4 className="App-header">
-        I will use this URL to build Instagram DP Downloader.
+        Hey love, I'm longing for your company. How about spending quality time together at my place? Can't wait to have you over!
       </h4>
-      <p>Team: </p>
-      <p>Ashish (Developer)</p>
-      <p>Sarmeeeen (UI/UX)</p>
+      <p>With Love, </p>
+      <p>Ashish</p>
     </div>
   );
 }
